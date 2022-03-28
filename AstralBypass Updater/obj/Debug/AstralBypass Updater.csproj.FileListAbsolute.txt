@@ -1,0 +1,21 @@
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\AstralBypass Updater.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\AstralBypass Updater.pdb
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\MelonLoader.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\0Harmony.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\MonoMod.Utils.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Mono.Cecil.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\AssetsTools.NET.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Tomlet.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\MelonLoader.xml
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\obj\Debug\AstralBypass Updater.csproj.AssemblyReference.cache
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\obj\Debug\AstralBypass Updater.csproj.CoreCompileInputs.cache
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\obj\Debug\AstralBypass Updater.csproj.CopyComplete
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\obj\Debug\AstralBypass Updater.dll
+C:\Users\johns\source\repos\AstralBypass Updater\AstralBypass Updater\obj\Debug\AstralBypass Updater.pdb
